@@ -20,4 +20,4 @@
 
 [Демо проекта](https://devartmax.ru/photoscope/)
 
-_Примечание:_ API jsonplaceholder иногда работает нестабильно, в будущем можно заменить на Firebase Realtime Database.
+_Примечание:_ API jsonplaceholder -  бесплатный сервис с "cold start" (холодным стартом), поэтому первая загрузка таблицы может занять 30–50 секунд.
